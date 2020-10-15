@@ -26,13 +26,13 @@ El siguiente proyecto desarrollado es una trivia de programación y el proposito
 
 #### Prototipo en sketches
 
-Home
+Home  
 <img width="617" alt="Captura de Pantalla 2020-10-07 a la(s) 10 48 13" src="https://user-images.githubusercontent.com/6140157/96143032-54917900-0ec8-11eb-9212-0f7ed73040ac.png">
 
-Questions
+Questions  
 <img width="617" alt="Captura de Pantalla 2020-10-07 a la(s) 10 48 47" src="https://user-images.githubusercontent.com/6140157/96144459-cf0ec880-0ec9-11eb-9247-17b31b6aad38.png">
 
-Results
+Results  
 <img width="618" alt="Captura de Pantalla 2020-10-07 a la(s) 10 50 03" src="https://user-images.githubusercontent.com/6140157/96145567-f74af700-0eca-11eb-913f-6f7ad178322b.png">
 
 #### Diseño del prototipo
